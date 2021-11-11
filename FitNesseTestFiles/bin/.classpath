@@ -7,6 +7,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/John%20Chen/Downloads/FitNesse/fitnesse-standalone.jar"/>
+	<classpathentry kind="lib" path="/media/sf_LinuxDev/fitnesse/fitnesse-standalone.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

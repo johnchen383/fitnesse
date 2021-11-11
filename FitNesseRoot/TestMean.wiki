@@ -3,9 +3,9 @@ Help: Testing Tests
 ---
 !contents -R2 -g -p -f -h
 
-!path $HOME/Downloads/FitNesse/FitNesseTestFiles/bin/example
+!path /media/sf_LinuxDev/fitnesse/FitNesseTestFiles/bin
 
-!|Fixture|
-|x1    |x2    |=addTwo?   |
+!|example.Fixture|
+|x1    |x2    |addTwo?   |
 |0     |0     |0            |
 |1     |1     |2            |
